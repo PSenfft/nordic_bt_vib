@@ -1,0 +1,7 @@
+[manifest]
+path = bt_vib
+file = west.yml
+
+[zephyr]
+base = zephyr
+
